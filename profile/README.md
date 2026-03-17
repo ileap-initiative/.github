@@ -11,7 +11,8 @@
  - [The iLEAP Whitepaper](https://smart-freight-centre-media.s3.amazonaws.com/documents/iLEAP_Whitepaper_V1_03.07.2025.pdf)
  - [iLEAP's Technical Specifications](https://sine-fdn.github.io/ileap-extension/)
  - The Automated Conformance Testing Tool (ACT): [https://act.sine.dev/](https://act.sine.dev/) and the [ACT tool for CI/CD](https://github.com/sine-fdn/act)
-- [Demo Implementation of iLEAP](https://github.com/sine-fdn/impact-protocols)
+ - [Demo Implementation of iLEAP](https://github.com/sine-fdn/impact-protocols)
+ - [The iLEAP Community Guide](https://sinefoundation.notion.site/iLEAP-Community-Guide-d036010d2c7547d99204ea87d79c060f)
 
 
 
